@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Disable Music In Pause Menu</name>
+    <directory>disable music in pause menu</directory>
+    <id>3455092084</id>
+    <description>[b]Disable Music In Pause Menu[/b]
+[i]Version:[/i] 1.0
+[i]Compatibility:[/i] Repentance (needs Repentogon)
+[i]Author:[/i] emp0ry
+
+[b]Description:[/b]
+Mutes music when you pause in-game and turns it back on when you resume or go to the main menu. Works only with [url=https://repentogon.com/]Repentogon[/url]. Check the project on [url=https://github.com/emp0ry/Disable-Music-In-Pause-Menu]GitHub[/url]!
+
+[b]Features:[/b]
+- Music OFF when paused, ON when unpaused
+- Music always ON in main menu
+- Simple and smooth</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Music"/>
+</metadata>
