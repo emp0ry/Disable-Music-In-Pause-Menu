@@ -29,8 +29,10 @@ If you encounter any issues, feel free to open an [issue](https://github.com/emp
 ## 📌 Links
 🔗 [Repentogon](https://repentogon.com/) - Required API  
 🔗 [GitHub Repository](https://github.com/emp0ry/Disable-Music-In-Pause-Menu) - Source Code & Issues  
-🔗 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3455092084) - Workshop Page
-🔗 [Modding of Isaac](https://moddingofisaac.com/mod/3859/disable-music-in-pause-menu) - The Modding of Isaac Page
+🔗 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3455092084) - Workshop Page  
+🔗 [Modding of Isaac](https://moddingofisaac.com/mod/3859/disable-music-in-pause-menu) - The Modding of Isaac Page  
+
 ---
+
 📝 *Made with ❤️ by [emp0ry](https://github.com/emp0ry)*
 
