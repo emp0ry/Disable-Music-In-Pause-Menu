@@ -32,6 +32,14 @@ If you encounter any issues, feel free to open an [issue](https://github.com/emp
 🔗 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3455092084) - Workshop Page  
 🔗 [Modding of Isaac](https://moddingofisaac.com/mod/3859/disable-music-in-pause-menu) - The Modding of Isaac Page  
 
+## Donation
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/emp0ry)
+
+## License
+
+MIT License. See [LICENSE](LICENSE.txt) for details.
+
 ---
 
 📝 *Made with ❤️ by [emp0ry](https://github.com/emp0ry)*
