@@ -1,8 +1,8 @@
 # Disable Music In Pause Menu
 
-![GitHub release](https://img.shields.io/github/v/release/emp0ry/Disable-Music-In-Pause-Menu?label=Latest%20Version)
-![Compatibility](https://img.shields.io/badge/Compatibility-Repentance%20%7C%20Repentogon-blue)
-![License](https://img.shields.io/github/license/emp0ry/Disable-Music-In-Pause-Menu)
+[![GitHub release](https://img.shields.io/github/v/release/emp0ry/Disable-Music-In-Pause-Menu?label=Latest%20Version)](https://github.com/emp0ry/Disable-Music-In-Pause-Menu/releases/latest)
+[![Compatibility](https://img.shields.io/badge/Compatibility-Repentance%20%7C%20Repentogon-blue)](https://github.com/emp0ry/Disable-Music-In-Pause-Menu)
+[![License](https://img.shields.io/github/license/emp0ry/Disable-Music-In-Pause-Menu)](LICENSE)
 
 ## 📜 Description
 **Disable Music In Pause Menu** is a lightweight mod for *The Binding of Isaac: Repentance* that mutes the in-game music when you pause and restores it when you resume or return to the main menu. This mod requires **[Repentogon](https://repentogon.com/)** to function.
